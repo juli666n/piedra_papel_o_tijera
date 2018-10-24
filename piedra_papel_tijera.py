@@ -7,4 +7,4 @@ if jugador1 == 1 and jugador2 == 3 or jugador1 == 2 and jugador2 == 1 or jugador
 elif jugador1 == 3 and jugador2 == 1 or jugador1 == 1 and jugador2 == 2 or jugador1 == 2 and jugador2 == 3:
     print ("jugador dos gana")
 else:
-    print ("no valido")
+    print ("opcion no valida")
